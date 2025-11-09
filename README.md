@@ -18,10 +18,10 @@ To analyze Google Play Store app data — including **installs, ratings, reviews
 
 ##  3. Tech Stack  
 
-- 🔹 **Power BI** – For creating interactive data visualizations and dashboards  
-- 🔹 **Power Query** – For data cleaning and transformation  
-- 🔹 **DAX (Data Analysis Expressions)** – For creating custom measures and calculated columns  
-- 🔹 **Microsoft Excel / CSV** – Used as the data source for import and preprocessing  
+-  **Power BI** – For creating interactive data visualizations and dashboards  
+-  **Power Query** – For data cleaning and transformation  
+-  **DAX (Data Analysis Expressions)** – For creating custom measures and calculated columns  
+-  **Microsoft Excel / CSV** – Used as the data source for import and preprocessing  
 
 ---
 
@@ -30,29 +30,29 @@ To analyze Google Play Store app data — including **installs, ratings, reviews
 - **Source:** Soft Byte – Google Play Store Dataset  
 
 **Structure Includes:**  
-- 🔹 **App Name:** Name of the Android application  
-- 🔹 **Category:** Type or classification (e.g., Tools, Games, Education)  
-- 🔹 **Rating:** Average user rating  
-- 🔹 **Reviews:** Total number of user reviews  
-- 🔹 **Installs:** Number of downloads  
-- 🔹 **Size:** App size in MB  
-- 🔹 **Type:** Free or Paid  
-- 🔹 **Price:** Price of the app (if paid)  
-- 🔹 **Content Rating:** Age group suitability  
-- 🔹 **Genres:** App subcategory  
-- 🔹 **Last Updated:** Last updated date  
+-  **App Name:** Name of the Android application  
+-  **Category:** Type or classification (e.g., Tools, Games, Education)  
+-  **Rating:** Average user rating  
+-  **Reviews:** Total number of user reviews  
+-  **Installs:** Number of downloads  
+-  **Size:** App size in MB  
+-  **Type:** Free or Paid  
+-  **Price:** Price of the app (if paid)  
+-  **Rating:** Age group suitability  
+-  **Genres:** App subcategory  
+-  **Last Updated:** Last updated date  
 
 ---
 
 ##  5. Dashboard Features & Highlights  
 
-- **📂 Category-wise Analysis:** Explore which app categories dominate the Play Store by number of apps and total installs.  
-- **⭐ User Ratings Overview:** Understand user satisfaction levels through average rating distribution.  
-- **📈 Install Trends:** Compare installs across free vs. paid apps and top-performing categories.  
-- **💰 Price Impact Visualization:** Analyze how pricing affects app popularity and user ratings.  
-- **🔄 Update Frequency Insights:** Track how often apps are updated to measure developer engagement.  
-- **🎛️ Dynamic Filters:** Interact with data by selecting categories, content ratings, or app types.  
-- **📊 Key KPIs Displayed:**  
+- **Category-wise Analysis -:** Explore which app categories dominate the Play Store by number of apps and total installs.  
+- **User Ratings Overview -:** Understand user satisfaction levels through average rating distribution.  
+- **Install Trends -:** Compare installs across free vs. paid apps and top-performing categories.  
+- **Price Impact Visualization -:** Analyze how pricing affects app popularity and user ratings.  
+- **Update Frequency Insights -:** Track how often apps are updated to measure developer engagement.  
+- **Dynamic Filters -:** Interact with data by selecting categories, content ratings, or app types.  
+- **Key KPIs Displayed:**  
   - Total Apps  
   - Average Rating  
   - Total Installs  
@@ -63,10 +63,10 @@ To analyze Google Play Store app data — including **installs, ratings, reviews
 
 ##  6. Key Insights  
 
-- 🎮 *Games* and *Tools* categories dominate in installs and availability.  
-- 💸 *Free apps* receive far higher install volumes than paid apps.  
-- 🔁 Apps that are updated more frequently tend to have **higher average ratings**.  
-- 🎓 The *Education* category shows steady growth in both ratings and installs.  
+- *Games* and *Tools* categories dominate in installs and availability.  
+- *Free apps* receive far higher install volumes than paid apps.  
+-  Apps that are updated more frequently tend to have **higher average ratings**.  
+-  The *Education* category shows steady growth in both ratings and installs.  
 
 ---
 
